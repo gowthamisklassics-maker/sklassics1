@@ -1,8 +1,29 @@
-node_modules/
-dist/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi5naXRpZ25vcmUiXSwic291cmNlc0NvbnRlbnQiOlsiIyBMb2dzXG5sb2dzXG4qLmxvZ1xubnBtLWRlYnVnLmxvZypcbnlhcm4tZGVidWcubG9nKlxueWFybi1lcnJvci5sb2cqXG5wbnBtLWRlYnVnLmxvZypcbmxlcm5hLWRlYnVnLmxvZypcblxubm9kZV9tb2R1bGVzXG5kaXN0XG5kaXN0LXNzclxuKi5sb2NhbFxuXG4jIEVkaXRvciBkaXJlY3RvcmllcyBhbmQgZmlsZXNcbi52c2NvZGUvKlxuIS52c2NvZGUvZXh0ZW5zaW9ucy5qc29uXG4uaWRlYVxuLkRTX1N0b3JlXG4qLnN1b1xuKi5udHZzKlxuKi5uanNwcm9qXG4qLnNsblxuKi5zdz9cbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxDQUFDLENBQUM7QUFDRjtBQUNBLENBQUMsQ0FBQztBQUNGLEdBQUcsQ0FBQyxLQUFLLENBQUMsR0FBRztBQUNiLElBQUksQ0FBQyxLQUFLLENBQUMsR0FBRztBQUNkLElBQUksQ0FBQyxLQUFLLENBQUMsR0FBRztBQUNkLElBQUksQ0FBQyxLQUFLLENBQUMsR0FBRztBQUNkLEtBQUssQ0FBQyxLQUFLLENBQUMsR0FBRzs7QUFFZjtBQUNBO0FBQ0EsSUFBSSxDQUFDO0FBQ0wsQ0FBQyxDQUFDOztBQUVGLENBQUMsQ0FBQyxNQUFNLENBQUMsV0FBVyxDQUFDLEdBQUcsQ0FBQztBQUN6QixDQUFDLE1BQU0sQ0FBQztBQUNSLENBQUMsQ0FBQyxNQUFNLENBQUMsVUFBVSxDQUFDO0FBQ3BCLENBQUM7QUFDRCxDQUFDO0FBQ0QsQ0FBQyxDQUFDO0FBQ0YsQ0FBQyxDQUFDLElBQUk7QUFDTixDQUFDLENBQUM7QUFDRixDQUFDLENBQUM7QUFDRixDQUFDLENBQUMsRUFBRTsifQ==
 dist.zip
-.env
-.env.*
-!.env.example
 
 dist.zip
